@@ -1,0 +1,22 @@
+{
+  "name": "dollyworldexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metalcouer/dollyWorld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metalcouer/dollyWorld/issues"
+  },
+  "homepage": "https://github.com/metalcouer/dollyWorld#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
